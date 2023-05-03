@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Hangyeol's-nl-Github&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Hangyeol's-nl-Github&fontSize=80&animation=fadeIn)
 
 ![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api?username=hangyeol-sseo&show_icons=true&theme=onedark) <br>
 [![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeol-sseo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hangyeol-SSeo)
