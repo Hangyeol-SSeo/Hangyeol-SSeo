@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Hangyeol's-nl-Github&fontSize=80&animation=fadeIn)
 
 ![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api?username=hangyeol-sseo&show_icons=true&theme=onedark) <br>
-[![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeol-sseo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hangyeol-SSeo)
+[![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-Sseo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hangyeol-sseo/)
 
 <div align="center"><h3>🛠Tech Stack🛠</h3></div>
 <div align="center">
