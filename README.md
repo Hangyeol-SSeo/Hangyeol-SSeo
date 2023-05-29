@@ -5,7 +5,7 @@
 <br>
 
 ![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api?username=hangyeol-sseo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=compact&show_icons=true)](https://github.com/Hangyeol-SSeo)
 
 <br>
 
@@ -19,9 +19,6 @@
   </br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" />
-
-
 </div>
 
 <!--
