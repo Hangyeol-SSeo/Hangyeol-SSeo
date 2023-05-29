@@ -5,7 +5,7 @@
 <br>
 
 ![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api?username=hangyeol-sseo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=compact&show_icons=true)](https://github.com/Hangyeol-SSeo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=compact&show_icons=true)](https://github.com/hangyeol-sseo)
 
 <br>
 
