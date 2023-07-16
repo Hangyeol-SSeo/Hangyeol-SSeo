@@ -5,7 +5,7 @@
 <br>
 
 ![Hangyeol Seo's github stats](https://github-readme-stats.vercel.app/api?username=hangyeol-sseo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=compact&show_icons=true)](https://github.com/hangyeol-sseo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangyeol-sseo&layout=donut&show_icons=true)](https://github.com/hangyeol-sseo)
 
 <br>
 
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   </br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div>
 
 <!--
