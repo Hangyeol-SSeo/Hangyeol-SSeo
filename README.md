@@ -33,6 +33,19 @@
   <b>スーパーカブ</b>
 </div>
 
+<br>
+
+<div align="center"><h3>👩‍💻Careers👨‍💻</h3></div>
+<div align="left"> 
+  <ul dir="auto">
+    <li>Gachon University, Undergraduate Student @<a href="https://sw.gachon.ac.kr/cms/">Department of AI and Software (Software Major)</a> (2019.03 ~ 2025.02)</li>
+    <li>Sungkyunkwan University's Creative Innovation DNA Industry-Academic Cooperation - EYWA, Lead Developer @<a href="http://www.e2festa.kr/ko/competition">Engineering Festival 2023</a> (2023.03 ~ 2023.11)</li>
+    <li>Gachon University Startup College, 3th generation @<a href="https://gcs.gachon.ac.kr/">Gachon Cocone School</a> (2023.09 ~ 2023.12)</li>
+    <li>APRO - Amature like Pro, Co-founder (2023.11 ~ 2024.07)</li>
+    <li>BookBLA Inc, Software Engineer - Frontend @<a href="https://www.bookbla.com/">Bookbla</a> (2024.08 ~ Current)</li>
+  </ul>
+</div>
+
 <!--
 **Hangyeol-SSeo/Hangyeol-SSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
